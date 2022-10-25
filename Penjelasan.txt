@@ -1,0 +1,7 @@
+Nama	: Muhammad Thayyib
+Nim	: 22343024
+
+Kenapa dan kapan kita membutuhkan do-while dan if-else
+
+Do… while digunakan untuk mengulang statement sebanyak satu kali terlebih dahulu, kemudian akan mengecek statement didalam while apakah bernilai benar, jika bernilai benar maka akan diulang kembali.
+Pernyataan if-else mengambil kondisi tertentu dan memeriksa apakah kondisinya benar atau salah. Jika kondisinya benar, maka pernyataan if mengeksekusi blok kode tertentu. Jika kondisinya salah, maka pernyataan else mengeksekusi blok kode yang berbeda.
